@@ -1,8 +1,8 @@
-<h1 align="center">👋 Hi there, I'm Abinash Das</h1>
+<h1 align="center">👋 Hi , I'm Abinash Das</h1>
 
 <p align="center">
-  <strong>Data Analyst | Python • SQL • Power BI • Excel | Data Storyteller</strong><br>
-  📊 Turning Raw Data into Actionable Insights | 📍 Based in India
+  <strong>Data Analyst | Python • SQL • Power BI • Excel </strong><br>
+  📊 Turning Raw Data into Actionable Insights 
 </p>
 
 ---
@@ -11,7 +11,7 @@
 
 I’m a results-oriented **Data Analyst** with a Master’s in Computer Applications and a deep passion for uncovering insights hidden within data.
 
-With strong expertise in **SQL**, **Python (pandas, matplotlib)**, **Power BI**, and **Excel**, I specialize in building interactive dashboards, performing exploratory data analysis, and creating data-driven solutions to support smarter business decisions.
+With strong expertise in **SQL**, **Python (pandas,numpy, matplotlib)**, **Power BI**, and **Excel**, I specialize in building interactive dashboards, performing exploratory data analysis, and creating data-driven solutions to support smarter business decisions.
 
 I believe that **data without insight is just noise** — and my goal is to make it speak clearly.
 
@@ -20,7 +20,7 @@ I believe that **data without insight is just noise** — and my goal is to make
 ## 🛠️ Skills & Tools
 
 - 💻 **Languages:** Python, SQL, DAX, Excel (Advanced)
-- 📊 **Tools:** Power BI, pandas, matplotlib, seaborn, MySQL, Excel
+- 📊 **Tools:** Power BI, pandas,Numpy, matplotlib, seaborn, MySQL, Excel
 - 🧠 **Other:** Data Cleaning, Data Visualization, Exploratory Data Analysis, Business Intelligence
 
 ---
@@ -48,13 +48,13 @@ I believe that **data without insight is just noise** — and my goal is to make
 
 ## 📬 Let’s Connect!
 
-- 🔗 **Portfolio:** [Your Portfolio Link]
-- 💼 **LinkedIn:** [Your LinkedIn Profile Link]
-- 📧 **Email:** [your.email@example.com]
+- 🔗 **Portfolio:** 
+- 💼 **LinkedIn:** https://www.linkedin.com/in/dasabinash150/
+- 📧 **Email:** dasabinash150@gmail.com
 
 ---
 
-<p align="center">📍 *Open to Data Analyst roles | Let’s build something insightful together!*</p>
+<p align="center">📍 *Open to Data Analyst roles !*</p>
 
 <!---
 Dasabinash150/Dasabinash150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
