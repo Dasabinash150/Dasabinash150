@@ -1,13 +1,60 @@
-Hi, I’m Abinash Das – Data Analyst | Python & SQL Enthusiast | Power BI Storyteller
+<h1 align="center">👋 Hi there, I'm Abinash Das</h1>
 
-I specialize in transforming raw data into clear, actionable insights. With a strong foundation in Python (pandas, matplotlib), SQL, Excel, and Power BI, I analyze business trends, optimize strategies, and bring clarity to complex datasets.
+<p align="center">
+  <strong>Data Analyst | Python • SQL • Power BI • Excel | Data Storyteller</strong><br>
+  📊 Turning Raw Data into Actionable Insights | 📍 Based in India
+</p>
 
-**My featured projects include:**
-IPL Data Analysis Dashboard: Recommending the best playing XI based on player performance trends using Python and Power BI.
-Sales Dashboard Project: Built an interactive Power BI dashboard to track KPIs and highlight profit-driving regions using SQL-based insights.
-Employee Performance Analysis: Used pandas and SQL to explore performance patterns and predict promotion eligibility.
-I’m committed to continuous learning and data storytelling—making numbers speak louder than words.
-Let’s connect & explore insights together!
+---
+
+## 🚀 About Me
+
+I’m a results-oriented **Data Analyst** with a Master’s in Computer Applications and a deep passion for uncovering insights hidden within data.
+
+With strong expertise in **SQL**, **Python (pandas, matplotlib)**, **Power BI**, and **Excel**, I specialize in building interactive dashboards, performing exploratory data analysis, and creating data-driven solutions to support smarter business decisions.
+
+I believe that **data without insight is just noise** — and my goal is to make it speak clearly.
+
+---
+
+## 🛠️ Skills & Tools
+
+- 💻 **Languages:** Python, SQL, DAX, Excel (Advanced)
+- 📊 **Tools:** Power BI, pandas, matplotlib, seaborn, MySQL, Excel
+- 🧠 **Other:** Data Cleaning, Data Visualization, Exploratory Data Analysis, Business Intelligence
+
+---
+
+## 📈 Featured Projects
+
+🔹 **🏏 IPL Playing XI Predictor**  
+> Analyzed historical IPL data using Python to recommend optimal team combinations and built an interactive **Power BI dashboard** to visualize player performance, strike rates, and match impact.
+
+🔹 **📊 Sales Dashboard & Profit Tracker**  
+> Developed a dynamic dashboard in **Power BI** using sales and customer data. Used **SQL** for backend querying and **DAX** for real-time KPI analysis.
+
+🔹 **👥 Employee Performance Analytics**  
+> Leveraged **Python (pandas)** and **Excel** to analyze employee performance, identify high-potential candidates, and visualize department-level trends.
+
+---
+
+## 🌱 Currently Exploring
+
+- 🧠 Time-Series Forecasting & Predictive Modeling  
+- 📌 Power Query M language & Excel Automation  
+- 💼 Real-world business case studies using Python & BI tools
+
+---
+
+## 📬 Let’s Connect!
+
+- 🔗 **Portfolio:** [Your Portfolio Link]
+- 💼 **LinkedIn:** [Your LinkedIn Profile Link]
+- 📧 **Email:** [your.email@example.com]
+
+---
+
+<p align="center">📍 *Open to Data Analyst roles | Let’s build something insightful together!*</p>
 
 <!---
 Dasabinash150/Dasabinash150 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
